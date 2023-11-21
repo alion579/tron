@@ -1,0 +1,3 @@
+/home/lev/CLionProjects/tron/cmake-build-debug/CMakeFiles/tron.dir
+/home/lev/CLionProjects/tron/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lev/CLionProjects/tron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
